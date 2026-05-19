@@ -1,0 +1,26 @@
+{
+  "name": "Lompo03 - Ultimate CloudStream Collection",
+  "description": "Toutes les extensions : Anime, VF, VOSTFR, Films, Séries, Multi-langues",
+  "website": "https://github.com/lompo03/lalorta",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/plugins.json",
+    "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/plugins.json",
+    "https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/plugins.json",
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json",
+    "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/plugins.json",
+    "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json",
+    "https://raw.githubusercontent.com/Kraptor123/cs-Karma/refs/heads/master/repo.json",
+    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/eng.json",
+    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/storm.json",
+    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/hexa.json",
+    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/kronch.json",
+    "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/refs/heads/main/builds/repo.json",
+    "https://raw.githubusercontent.com/mebularts/CloudStreamTR/main/plugins.json",
+    "https://raw.githubusercontent.com/yunus60/cloudstream-providers/main/plugins.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/plugins.json",
+    "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/plugins.json",
+    "https://raw.githubusercontent.com/Killerqueen1707/Repositories_FR/main/repo.json",
+    "https://raw.githubusercontent.com/ShishKabie/CS-Extensions/main/repo.json"
+  ]
+}
